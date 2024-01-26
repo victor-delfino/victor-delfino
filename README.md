@@ -8,7 +8,7 @@ Eu sou Victor Hugo, Desenvolvedor de Software
 
 </div>
 <div style="display: inline_block"><br>
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
  ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -32,8 +32,6 @@ Eu sou Victor Hugo, Desenvolvedor de Software
  
   
   <a href="https://www.linkedin.com/in/victor-delfino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/victor-delfino/victor-delfino/blob/output/github-contribution-grid-snake.svg)
  
 
 </div>
