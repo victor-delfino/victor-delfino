@@ -7,6 +7,11 @@ Eu sou Victor Hugo, Desenvolvedor de Software
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-delfino&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+
+## ⚡ Tecnologias
+
+Tecnologias e ferramentas que eu utilizo:
+
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
