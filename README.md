@@ -25,6 +25,40 @@ Atuo de forma colaborativa em times Ágeis, participando de todo o ciclo de vida
 > “Simplicidade é o último grau de sofisticação.”  
 > — *Leonardo da Vinci*
 
+### 🌟 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h3>🚀 Anakin Project</h3>
+      <p>
+        Uma aplicação full stack inspirada no universo Star Wars, focada em explorar
+        arquitetura de software, integração entre front-end e back-end e organização
+        de dados de forma escalável.
+      </p>
+
+<p><strong>Destaques técnicos:</strong></p>
+<ul>
+  <li><strong>Front-end:</strong> React com foco em componentização e separação de responsabilidades.</li>
+  <li><strong>Back-end:</strong> Node.js com APIs REST bem definidas.</li>
+  <li><strong>Arquitetura:</strong> Separação clara entre camadas e uso de boas práticas.</li>
+  <li><strong>Infraestrutura:</strong> Docker e docker-compose para ambiente padronizado.</li>
+</ul>
+
+<a href="https://github.com/victor-delfino/anakin">
+  ➡️ Veja o repositório do projeto
+</a>
+</td>
+
+   <!-- <td width="30%">
+      ##<img
+        src="https://raw.githubusercontent.com/victor-delfino/anakin/main/assets/preview.png"
+        alt="Anakin Project Preview"
+      />  <!-->
+   </td>
+  </tr>
+</table>
+
 
 
 ## ⚡ Tecnologias
