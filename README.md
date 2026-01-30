@@ -50,11 +50,11 @@ Atuo de forma colaborativa em times Ágeis, participando de todo o ciclo de vida
 </a>
 </td>
 
-   <!-- <td width="30%">
-      ##<img
-        src="https://raw.githubusercontent.com/victor-delfino/anakin/main/assets/preview.png"
+   <td width="100%">
+      <img
+        src="https://raw.githubusercontent.com/victor-delfino/anakin/main/docs/images/home.png"
         alt="Anakin Project Preview"
-      />  <!-->
+      />  
    </td>
   </tr>
 </table>
